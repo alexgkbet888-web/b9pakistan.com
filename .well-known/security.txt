@@ -1,0 +1,4 @@
+Contact: https://b9pakistan.com/contact/
+Preferred-Languages: en, ur
+Canonical: https://b9pakistan.com/.well-known/security.txt
+Policy: https://b9pakistan.com/privacy-policy/
