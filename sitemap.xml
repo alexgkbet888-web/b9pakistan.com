@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://b9pakistan.com/</loc><lastmod>2026-06-08</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://b9pakistan.com/about/</loc><lastmod>2026-06-08</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
@@ -8,7 +8,7 @@
   <url><loc>https://b9pakistan.com/customer-service-verifier/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://b9pakistan.com/faq/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://b9pakistan.com/forgot-password/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://b9pakistan.com/guides/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://b9pakistan.com/guides/</loc><lastmod>2026-06-11</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://b9pakistan.com/otp-not-received/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://b9pakistan.com/pakistan-faq/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://b9pakistan.com/privacy-policy/</loc><lastmod>2026-06-08</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
@@ -19,10 +19,10 @@
   <url><loc>https://b9pakistan.com/safety/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://b9pakistan.com/support/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://b9pakistan.com/terms/</loc><lastmod>2026-06-08</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://b9pakistan.com/updates/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://b9pakistan.com/updates/</loc><lastmod>2026-06-11</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://b9pakistan.com/urdu/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://b9pakistan.com/whatsapp-channel/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://b9pakistan.com/today-b9-pakistan-check/</loc><lastmod>2026-06-08</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://b9pakistan.com/today-b9-pakistan-check/</loc><lastmod>2026-06-11</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://b9pakistan.com/real-or-fake/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://b9pakistan.com/live-support/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://b9pakistan.com/login-problem/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -30,6 +30,7 @@
   <url><loc>https://b9pakistan.com/lahore-b9-guide/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
   <url><loc>https://b9pakistan.com/islamabad-b9-guide/</loc><lastmod>2026-06-08</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
 </urlset>
+
 
 
 
