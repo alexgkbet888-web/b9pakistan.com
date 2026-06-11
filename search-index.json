@@ -1,142 +1,157 @@
 ﻿[
     {
-        "title":  "About b9pakistan.com | B9 Pakistan Guide Site",
-        "description":  "b9pakistan.com is an independent Pakistan-focused B9 guide site for app, account, APK, games and safety information.",
-        "url":  "/about/"
+        "value":  [
+                      {
+                          "title":  "About b9pakistan.com | B9 Pakistan Guide Site",
+                          "description":  "b9pakistan.com is an independent Pakistan-focused B9 guide site for app, account, APK, games and safety information.",
+                          "url":  "/about/"
+                      },
+                      {
+                          "title":  "B9 Pakistan Account Access Help | +92 Mobile and Password",
+                          "description":  "B9 Pakistan account access help for +92 mobile number, password reset, OTP and browser loading issues.",
+                          "url":  "/account-access/"
+                      },
+                      {
+                          "title":  "B9 Account Safety Pakistan | Password and Support Rules",
+                          "description":  "B9 account safety guide for Pakistan users with password, OTP, support and device security reminders.",
+                          "url":  "/account-safety/"
+                      },
+                      {
+                          "title":  "Contact b9pakistan.com | Support and Site Feedback",
+                          "description":  "Contact information for b9pakistan.com with guidance for account support, site feedback and safe communication.",
+                          "url":  "/contact/"
+                      },
+                      {
+                          "title":  "B9 Customer Service Verifier Pakistan | Safe Support Guide",
+                          "description":  "B9 customer service verifier guide for Pakistan users to confirm support before sharing information.",
+                          "url":  "/customer-service-verifier/"
+                      },
+                      {
+                          "title":  "b9pakistan.com FAQ | B9 Pakistan Questions",
+                          "description":  "B9 Pakistan FAQ hub for b9pakistan.com with registration, app, APK, wallet, support and safety questions.",
+                          "url":  "/faq/"
+                      },
+                      {
+                          "title":  "B9 Forgot Password Pakistan | Reset Help",
+                          "description":  "B9 forgot password guide for Pakistan users with reset, OTP and safe support reminders.",
+                          "url":  "/forgot-password/"
+                      },
+                      {
+                          "title":  "b9pakistan.com Guides | Complete B9 Pakistan Content Hub",
+                          "description":  "Complete B9 Pakistan guide index for b9pakistan.com with account, app, APK, wallet, support and game topics.",
+                          "url":  "/guides/"
+                      },
+                      {
+                          "title":  "B9 OTP Not Received Pakistan | +92 Mobile Help",
+                          "description":  "B9 OTP not received guide for Pakistan +92 mobile users with SIM signal, SMS and retry checks.",
+                          "url":  "/otp-not-received/"
+                      },
+                      {
+                          "title":  "B9 Pakistan FAQ | Register, Account, Support and App Questions",
+                          "description":  "B9 Pakistan FAQ hub for registration, account access, support, app and wallet questions.",
+                          "url":  "/pakistan-faq/"
+                      },
+                      {
+                          "title":  "Privacy Policy | b9pakistan.com",
+                          "description":  "Privacy policy for b9pakistan.com explaining basic site logs, external registration links and no password collection.",
+                          "url":  "/privacy-policy/"
+                      },
+                      {
+                          "title":  "B9 Pakistan Register Guide | +92 Mobile Account Setup",
+                          "description":  "B9 Pakistan registration guide for +92 mobile users with account setup, 18+ reminder and safety notes.",
+                          "url":  "/register/"
+                      },
+                      {
+                          "title":  "B9 Register with +92 Mobile Pakistan | Account Guide",
+                          "description":  "B9 register with +92 mobile guide for Pakistan users with account setup and registration reminders.",
+                          "url":  "/register-with-92-mobile/"
+                      },
+                      {
+                          "title":  "Responsible Access | b9pakistan.com",
+                          "description":  "Responsible 18+ access guidance for b9pakistan.com with safety reminders, risk notes and support direction.",
+                          "url":  "/responsible-access/"
+                      },
+                      {
+                          "title":  "B9 Account Kaise Banaye | Roman Urdu Pakistan Guide",
+                          "description":  "Roman Urdu guide for B9 account creation, mobile registration and support safety in Pakistan.",
+                          "url":  "/roman-urdu-register/"
+                      },
+                      {
+                          "title":  "B9 Pakistan Safety Guide | Responsible Access and Official Links",
+                          "description":  "B9 Pakistan safety guide with responsible 18+ access, official links, fake support warning and account protection.",
+                          "url":  "/safety/"
+                      },
+                      {
+                          "title":  "B9 Pakistan Support Center | WhatsApp, FAQ and Service Verifier",
+                          "description":  "B9 Pakistan support center guide for WhatsApp channel, FAQ, live support and customer service verifier.",
+                          "url":  "/support/"
+                      },
+                      {
+                          "title":  "Terms of Use | b9pakistan.com",
+                          "description":  "Terms of use for b9pakistan.com covering informational content, 18+ access and external registration links.",
+                          "url":  "/terms/"
+                      },
+                      {
+                          "title":  "b9pakistan.com Updates | B9 Pakistan Content Log",
+                          "description":  "Update log for b9pakistan.com showing B9 Pakistan SEO content, sitemap and mobile registration improvements.",
+                          "url":  "/updates/"
+                      },
+                      {
+                          "title":  "B9 Pakistan Urdu Help | Roman Urdu Questions",
+                          "description":  "B9 Pakistan Roman Urdu help hub for register, account, app, wallet and support questions.",
+                          "url":  "/urdu/"
+                      },
+                      {
+                          "title":  "B9 WhatsApp Channel Pakistan | Support and Update Guide",
+                          "description":  "B9 WhatsApp Channel Pakistan guide explaining how users should verify support and avoid fake contacts.",
+                          "url":  "/whatsapp-channel/"
+                      },
+                      {
+                          "title":  "B9 Pakistan Today Check | +92 Register, Support and H5 Notes",
+                          "description":  "Daily B9 Pakistan check for +92 registration, H5 mobile access, customer service verifier, support topics and safe account guidance.",
+                          "url":  "/today-b9-pakistan-check/"
+                      },
+                      {
+                          "title":  "B9 Real or Fake Pakistan | Safety and Official Route Guide",
+                          "description":  "B9 real or fake Pakistan guide explaining official route checks, support verifier, safe registration and account protection.",
+                          "url":  "/real-or-fake/"
+                      },
+                      {
+                          "title":  "B9 Live Support Pakistan | Customer Help and Verifier Guide",
+                          "description":  "B9 live support Pakistan guide for customer service verifier, WhatsApp channel, account issues and safe support checks.",
+                          "url":  "/live-support/"
+                      },
+                      {
+                          "title":  "B9 Login Problem Pakistan | +92 Mobile and Password Help",
+                          "description":  "B9 login problem Pakistan guide for +92 mobile users covering password, OTP, browser loading and safe account recovery.",
+                          "url":  "/login-problem/"
+                      },
+                      {
+                          "title":  "B9 Karachi Pakistan Guide | +92 Register, App and Support",
+                          "description":  "B9 Karachi Pakistan guide for +92 registration, mobile app access, support verifier, H5 use and safe account checks.",
+                          "url":  "/karachi-b9-guide/"
+                      },
+                      {
+                          "title":  "B9 Lahore Pakistan Guide | Register, H5 and Support Help",
+                          "description":  "B9 Lahore Pakistan guide for registration, H5 mobile access, account support, Roman Urdu questions and safe route checks.",
+                          "url":  "/lahore-b9-guide/"
+                      },
+                      {
+                          "title":  "B9 Islamabad Pakistan Guide | Account Safety and Support",
+                          "description":  "B9 Islamabad Pakistan guide for account safety, +92 access, support verifier, H5 registration and responsible 18+ reminders.",
+                          "url":  "/islamabad-b9-guide/"
+                      }
+                  ],
+        "Count":  28
     },
     {
-        "title":  "B9 Pakistan Account Access Help | +92 Mobile and Password",
-        "description":  "B9 Pakistan account access help for +92 mobile number, password reset, OTP and browser loading issues.",
-        "url":  "/account-access/"
+        "title":  "B9game Pakistan Register Guide | +92 Mobile Signup Help",
+        "description":  "B9game Pakistan register guide for +92 mobile users covering account setup, H5 access, safety checks and the official Register Now route.",
+        "url":  "/b9game-pakistan-register-guide/"
     },
     {
-        "title":  "B9 Account Safety Pakistan | Password and Support Rules",
-        "description":  "B9 account safety guide for Pakistan users with password, OTP, support and device security reminders.",
-        "url":  "/account-safety/"
-    },
-    {
-        "title":  "Contact b9pakistan.com | Support and Site Feedback",
-        "description":  "Contact information for b9pakistan.com with guidance for account support, site feedback and safe communication.",
-        "url":  "/contact/"
-    },
-    {
-        "title":  "B9 Customer Service Verifier Pakistan | Safe Support Guide",
-        "description":  "B9 customer service verifier guide for Pakistan users to confirm support before sharing information.",
-        "url":  "/customer-service-verifier/"
-    },
-    {
-        "title":  "b9pakistan.com FAQ | B9 Pakistan Questions",
-        "description":  "B9 Pakistan FAQ hub for b9pakistan.com with registration, app, APK, wallet, support and safety questions.",
-        "url":  "/faq/"
-    },
-    {
-        "title":  "B9 Forgot Password Pakistan | Reset Help",
-        "description":  "B9 forgot password guide for Pakistan users with reset, OTP and safe support reminders.",
-        "url":  "/forgot-password/"
-    },
-    {
-        "title":  "b9pakistan.com Guides | Complete B9 Pakistan Content Hub",
-        "description":  "Complete B9 Pakistan guide index for b9pakistan.com with account, app, APK, wallet, support and game topics.",
-        "url":  "/guides/"
-    },
-    {
-        "title":  "B9 OTP Not Received Pakistan | +92 Mobile Help",
-        "description":  "B9 OTP not received guide for Pakistan +92 mobile users with SIM signal, SMS and retry checks.",
-        "url":  "/otp-not-received/"
-    },
-    {
-        "title":  "B9 Pakistan FAQ | Register, Account, Support and App Questions",
-        "description":  "B9 Pakistan FAQ hub for registration, account access, support, app and wallet questions.",
-        "url":  "/pakistan-faq/"
-    },
-    {
-        "title":  "Privacy Policy | b9pakistan.com",
-        "description":  "Privacy policy for b9pakistan.com explaining basic site logs, external registration links and no password collection.",
-        "url":  "/privacy-policy/"
-    },
-    {
-        "title":  "B9 Pakistan Register Guide | +92 Mobile Account Setup",
-        "description":  "B9 Pakistan registration guide for +92 mobile users with account setup, 18+ reminder and safety notes.",
-        "url":  "/register/"
-    },
-    {
-        "title":  "B9 Register with +92 Mobile Pakistan | Account Guide",
-        "description":  "B9 register with +92 mobile guide for Pakistan users with account setup and registration reminders.",
-        "url":  "/register-with-92-mobile/"
-    },
-    {
-        "title":  "Responsible Access | b9pakistan.com",
-        "description":  "Responsible 18+ access guidance for b9pakistan.com with safety reminders, risk notes and support direction.",
-        "url":  "/responsible-access/"
-    },
-    {
-        "title":  "B9 Account Kaise Banaye | Roman Urdu Pakistan Guide",
-        "description":  "Roman Urdu guide for B9 account creation, mobile registration and support safety in Pakistan.",
-        "url":  "/roman-urdu-register/"
-    },
-    {
-        "title":  "B9 Pakistan Safety Guide | Responsible Access and Official Links",
-        "description":  "B9 Pakistan safety guide with responsible 18+ access, official links, fake support warning and account protection.",
-        "url":  "/safety/"
-    },
-    {
-        "title":  "B9 Pakistan Support Center | WhatsApp, FAQ and Service Verifier",
-        "description":  "B9 Pakistan support center guide for WhatsApp channel, FAQ, live support and customer service verifier.",
-        "url":  "/support/"
-    },
-    {
-        "title":  "Terms of Use | b9pakistan.com",
-        "description":  "Terms of use for b9pakistan.com covering informational content, 18+ access and external registration links.",
-        "url":  "/terms/"
-    },
-    {
-        "title":  "b9pakistan.com Updates | B9 Pakistan Content Log",
-        "description":  "Update log for b9pakistan.com showing B9 Pakistan SEO content, sitemap and mobile registration improvements.",
-        "url":  "/updates/"
-    },
-    {
-        "title":  "B9 Pakistan Urdu Help | Roman Urdu Questions",
-        "description":  "B9 Pakistan Roman Urdu help hub for register, account, app, wallet and support questions.",
-        "url":  "/urdu/"
-    },
-    {
-        "title":  "B9 WhatsApp Channel Pakistan | Support and Update Guide",
-        "description":  "B9 WhatsApp Channel Pakistan guide explaining how users should verify support and avoid fake contacts.",
-        "url":  "/whatsapp-channel/"
-    },
-    {
-        "title":  "B9 Pakistan Today Check | +92 Register, Support and H5 Notes",
-        "description":  "Daily B9 Pakistan check for +92 registration, H5 mobile access, customer service verifier, support topics and safe account guidance.",
-        "url":  "/today-b9-pakistan-check/"
-    },
-    {
-        "title":  "B9 Real or Fake Pakistan | Safety and Official Route Guide",
-        "description":  "B9 real or fake Pakistan guide explaining official route checks, support verifier, safe registration and account protection.",
-        "url":  "/real-or-fake/"
-    },
-    {
-        "title":  "B9 Live Support Pakistan | Customer Help and Verifier Guide",
-        "description":  "B9 live support Pakistan guide for customer service verifier, WhatsApp channel, account issues and safe support checks.",
-        "url":  "/live-support/"
-    },
-    {
-        "title":  "B9 Login Problem Pakistan | +92 Mobile and Password Help",
-        "description":  "B9 login problem Pakistan guide for +92 mobile users covering password, OTP, browser loading and safe account recovery.",
-        "url":  "/login-problem/"
-    },
-    {
-        "title":  "B9 Karachi Pakistan Guide | +92 Register, App and Support",
-        "description":  "B9 Karachi Pakistan guide for +92 registration, mobile app access, support verifier, H5 use and safe account checks.",
-        "url":  "/karachi-b9-guide/"
-    },
-    {
-        "title":  "B9 Lahore Pakistan Guide | Register, H5 and Support Help",
-        "description":  "B9 Lahore Pakistan guide for registration, H5 mobile access, account support, Roman Urdu questions and safe route checks.",
-        "url":  "/lahore-b9-guide/"
-    },
-    {
-        "title":  "B9 Islamabad Pakistan Guide | Account Safety and Support",
-        "description":  "B9 Islamabad Pakistan guide for account safety, +92 access, support verifier, H5 registration and responsible 18+ reminders.",
-        "url":  "/islamabad-b9-guide/"
+        "title":  "B9game Pakistan Support Guide | Help, Verifier and Safety",
+        "description":  "B9game Pakistan support guide covering customer service verifier, account help, WhatsApp safety and responsible 18+ access.",
+        "url":  "/b9game-pakistan-support-guide/"
     }
 ]
