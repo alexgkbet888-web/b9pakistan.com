@@ -1,82 +1,80 @@
-﻿[
-    {
-        "value":  [
-                      {
-                          "title":  "B9game Pakistan Official Registration Route Guide",
-                          "url":  "/b9game-official-route-pakistan/",
-                          "description":  "B9game Pakistan official registration route guide for safe Register Now path, support verifier checks, +92 mobile and H5 access.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "official registration route",
-                                           "safe register"
-                                       ]
-                      },
-                      {
-                          "value":  [
-                                        {
-                                            "value":  [
-                                                          "@{value=                           ; Count=28}",
-                                                          "@{title=B9game Pakistan Register Guide | +92 Mobile Signup Help; description=B9game Pakistan register guide for +92 mobile users covering account setup, H5 access, safety checks and the official Register Now route.; url=/b9game-pakistan-register-guide/}",
-                                                          "@{title=B9game Pakistan Support Guide | Help, Verifier and Safety; description=B9game Pakistan support guide covering customer service verifier, account help, WhatsApp safety and responsible 18+ access.; url=/b9game-pakistan-support-guide/}"
-                                                      ],
-                                            "Count":  3
-                                        },
-                                        {
-                                            "title":  "B9game Account Kaise Banaye | Pakistan Roman Urdu Guide",
-                                            "description":  "Roman Urdu B9game account guide for Pakistan users covering +92 registration, account setup, H5 access and safe Register Now route.",
-                                            "url":  "/b9game-account-kaise-banaye/"
-                                        },
-                                        {
-                                            "title":  "B9game Support Kaise Contact Kare | Pakistan Help Guide",
-                                            "description":  "Roman Urdu B9game support guide for Pakistan users covering verifier checks, account safety, WhatsApp-style questions and safe support contact habits.",
-                                            "url":  "/b9game-support-kaise-contact-kare/"
-                                        }
-                                    ],
-                          "Count":  3
-                      },
-                      {
-                          "title":  "B9game Account Kaise Banaye | Pakistan Roman Urdu Guide",
-                          "description":  "Roman Urdu B9game account guide for Pakistan users covering +92 registration, account setup, H5 access and safe Register Now route.",
-                          "url":  "/b9game-account-kaise-banaye/"
-                      },
-                      {
-                          "title":  "B9game Support Kaise Contact Kare | Pakistan Help Guide",
-                          "description":  "Roman Urdu B9game support guide for Pakistan users covering verifier checks, account safety, WhatsApp-style questions and safe support contact habits.",
-                          "url":  "/b9game-support-kaise-contact-kare/"
-                      },
-                      {
-                          "title":  "B9game Pakistan Guides | Register, Account and Support Hub",
-                          "url":  "/b9game-pakistan-guides/",
-                          "description":  "B9game Pakistan guide hub for +92 registration, account safety, support verifier, Roman Urdu help and safe mobile access.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "Main B9game Pakistan entity"
-                                       ]
-                      },
-                      {
-                          "title":  "B9game OTP Delay Pakistan | +92 Mobile Verification Help",
-                          "url":  "/b9game-otp-delay-pakistan/",
-                          "description":  "B9game OTP delay Pakistan guide for +92 mobile users covering SIM signal, SMS inbox, retry timing, support evidence and safe account setup.",
-                          "keywords":  [
-                                           "B9game",
-                                           "B9Game",
-                                           "b9",
-                                           "Pakistan",
-                                           "B9game OTP delay Pakistan"
-                                       ]
-                      }
-                  ],
-        "Count":  6
-    },
-    {
-        "title":  "B9game Official Route vs Copy Sites Pakistan | Safety Checklist",
-        "description":  "B9game official route vs copy sites Pakistan guide for safe Register Now access, support verification, +92 mobile checks and trust signals.",
-        "url":  "/b9game-official-vs-copy-sites-pakistan/"
-    }
-]
+﻿{
+    "value":  [
+                  {
+                      "value":  [
+                                    {
+                                        "value":  [
+                                                      {
+                                                          "title":  "B9game Pakistan Official Registration Route Guide",
+                                                          "url":  "/b9game-official-route-pakistan/",
+                                                          "description":  "B9game Pakistan official registration route guide for safe Register Now path, support verifier checks, +92 mobile and H5 access.",
+                                                          "keywords":  [
+                                                                           "B9game",
+                                                                           "B9Game",
+                                                                           "b9",
+                                                                           "Pakistan",
+                                                                           "official registration route",
+                                                                           "safe register"
+                                                                       ]
+                                                      },
+                                                      {
+                                                          "value":  [
+                                                                        "@{value=@{value=                           ; Count=28} @{title=B9game Pakistan Register Guide | +92 Mobile Signup Help; description=B9game Pakistan register guide for +92 mobile users covering account setup, H5 access, safety checks and the official Register Now route.; url=/b9game-pakistan-register-guide/} @{title=B9game Pakistan Support Guide | Help, Verifier and Safety; description=B9game Pakistan support guide covering customer service verifier, account help, WhatsApp safety and responsible 18+ access.; url=/b9game-pakistan-support-guide/}; Count=3}",
+                                                                        "@{title=B9game Account Kaise Banaye | Pakistan Roman Urdu Guide; description=Roman Urdu B9game account guide for Pakistan users covering +92 registration, account setup, H5 access and safe Register Now route.; url=/b9game-account-kaise-banaye/}",
+                                                                        "@{title=B9game Support Kaise Contact Kare | Pakistan Help Guide; description=Roman Urdu B9game support guide for Pakistan users covering verifier checks, account safety, WhatsApp-style questions and safe support contact habits.; url=/b9game-support-kaise-contact-kare/}"
+                                                                    ],
+                                                          "Count":  3
+                                                      },
+                                                      {
+                                                          "title":  "B9game Account Kaise Banaye | Pakistan Roman Urdu Guide",
+                                                          "description":  "Roman Urdu B9game account guide for Pakistan users covering +92 registration, account setup, H5 access and safe Register Now route.",
+                                                          "url":  "/b9game-account-kaise-banaye/"
+                                                      },
+                                                      {
+                                                          "title":  "B9game Support Kaise Contact Kare | Pakistan Help Guide",
+                                                          "description":  "Roman Urdu B9game support guide for Pakistan users covering verifier checks, account safety, WhatsApp-style questions and safe support contact habits.",
+                                                          "url":  "/b9game-support-kaise-contact-kare/"
+                                                      },
+                                                      {
+                                                          "title":  "B9game Pakistan Guides | Register, Account and Support Hub",
+                                                          "url":  "/b9game-pakistan-guides/",
+                                                          "description":  "B9game Pakistan guide hub for +92 registration, account safety, support verifier, Roman Urdu help and safe mobile access.",
+                                                          "keywords":  [
+                                                                           "B9game",
+                                                                           "B9Game",
+                                                                           "b9",
+                                                                           "Pakistan",
+                                                                           "Main B9game Pakistan entity"
+                                                                       ]
+                                                      },
+                                                      {
+                                                          "title":  "B9game OTP Delay Pakistan | +92 Mobile Verification Help",
+                                                          "url":  "/b9game-otp-delay-pakistan/",
+                                                          "description":  "B9game OTP delay Pakistan guide for +92 mobile users covering SIM signal, SMS inbox, retry timing, support evidence and safe account setup.",
+                                                          "keywords":  [
+                                                                           "B9game",
+                                                                           "B9Game",
+                                                                           "b9",
+                                                                           "Pakistan",
+                                                                           "B9game OTP delay Pakistan"
+                                                                       ]
+                                                      }
+                                                  ],
+                                        "Count":  6
+                                    },
+                                    {
+                                        "title":  "B9game Official Route vs Copy Sites Pakistan | Safety Checklist",
+                                        "description":  "B9game official route vs copy sites Pakistan guide for safe Register Now access, support verification, +92 mobile checks and trust signals.",
+                                        "url":  "/b9game-official-vs-copy-sites-pakistan/"
+                                    }
+                                ],
+                      "Count":  2
+                  },
+                  {
+                      "title":  "B9game Mobile Verification Pakistan | +92 OTP and Account Check",
+                      "description":  "B9game mobile verification Pakistan guide for +92 number checks, OTP delay, SMS signal, account setup and safe support verification.",
+                      "url":  "/b9game-mobile-verification-pakistan/"
+                  }
+              ],
+    "Count":  2
+}
