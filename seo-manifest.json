@@ -1,4 +1,4 @@
-{
+﻿{
   "schemaVersion": "1.0",
   "domain": "b9pakistan.com",
   "brand": "B9 Pakistan",
@@ -49,5 +49,6 @@
     "clusters": ["official", "register", "account-safety", "support"],
     "weeklyUpdateTarget": 3
   },
-  "lastUpdated": "2026-06-27"
+  "lastUpdated": "2026-06-28"
 }
+
