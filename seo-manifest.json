@@ -1,56 +1,58 @@
-﻿{
-  "schemaVersion": "1.0",
-  "domain": "b9pakistan.com",
-  "brand": "B9 Pakistan",
-  "market": "Pakistan",
-  "language": "en-PK",
-  "batch": "P1",
-  "owner": "core-team",
-  "repoUrl": "https://github.com/alexgkbet888-web/b9pakistan.com",
-  "deployUrl": "https://b9pakistan.com/",
-  "siteType": "authority",
-  "positioning": "B9game Pakistan official route, registration guide and account safety hub",
-  "status": "active",
-  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
-  "primaryKeywords": [
-    "B9 Pakistan",
-    "B9game Pakistan",
-    "B9Game Pakistan",
-    "B9 register Pakistan"
-  ],
-  "secondaryKeywords": [
-    "B9game official route Pakistan",
-    "B9game register guide",
-    "B9game account safety Pakistan",
-    "B9game support Pakistan"
-  ],
-  "competitors": [
-    "https://b9gameapp.com/",
-    "https://b9game.net/",
-    "https://b9game.io/",
-    "https://b9game.me/"
-  ],
-  "technical": {
-    "sitemapUrl": "https://b9pakistan.com/sitemap.xml",
-    "robotsUrl": "https://b9pakistan.com/robots.txt",
-    "feedUrl": "https://b9pakistan.com/feed.xml",
-    "canonicalRoot": "https://b9pakistan.com/",
-    "hasH5Responsive": true,
-    "hasRegisterCta": true,
-    "hasLoginLink": false,
-    "hasLotteryDirection": false
-  },
-  "gsc": {
-    "property": "sc-domain:b9pakistan.com",
-    "connected": true
-  },
-  "contentPlan": {
-    "homepageAngle": "Brand trust and official registration route",
-    "clusters": ["official", "register", "account-safety", "support"],
-    "weeklyUpdateTarget": 3
-  },
-  "lastUpdated": "2026-07-10"
+{
+    "schemaVersion":  "1.0",
+    "domain":  "b9pakistan.com",
+    "brand":  "B9 Pakistan",
+    "market":  "Pakistan",
+    "language":  "en-PK",
+    "batch":  "P1",
+    "owner":  "core-team",
+    "repoUrl":  "https://github.com/alexgkbet888-web/b9pakistan.com",
+    "deployUrl":  "https://b9pakistan.com/",
+    "siteType":  "authority",
+    "positioning":  "B9game Pakistan official route, registration guide and account safety hub",
+    "status":  "active",
+    "registerTarget":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+    "primaryKeywords":  [
+                            "B9 Pakistan",
+                            "B9game Pakistan",
+                            "B9Game Pakistan",
+                            "B9 register Pakistan"
+                        ],
+    "secondaryKeywords":  [
+                              "B9game official route Pakistan",
+                              "B9game register guide",
+                              "B9game account safety Pakistan",
+                              "B9game support Pakistan"
+                          ],
+    "competitors":  [
+                        "https://b9gameapp.com/",
+                        "https://b9game.net/",
+                        "https://b9game.io/",
+                        "https://b9game.me/"
+                    ],
+    "technical":  {
+                      "sitemapUrl":  "https://b9pakistan.com/sitemap.xml",
+                      "robotsUrl":  "https://b9pakistan.com/robots.txt",
+                      "feedUrl":  "https://b9pakistan.com/feed.xml",
+                      "canonicalRoot":  "https://b9pakistan.com/",
+                      "hasH5Responsive":  true,
+                      "hasRegisterCta":  true,
+                      "hasLoginLink":  false,
+                      "hasLotteryDirection":  false
+                  },
+    "gsc":  {
+                "property":  "sc-domain:b9pakistan.com",
+                "connected":  true
+            },
+    "contentPlan":  {
+                        "homepageAngle":  "Brand trust and official registration route",
+                        "clusters":  [
+                                         "official",
+                                         "register",
+                                         "account-safety",
+                                         "support"
+                                     ],
+                        "weeklyUpdateTarget":  3
+                    },
+    "lastUpdated":  "2026-07-10"
 }
-
-
-
