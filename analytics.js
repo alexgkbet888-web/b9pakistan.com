@@ -116,7 +116,17 @@
   }
 
   function init() {
-    window.addEventListener("load", () => setTimeout(loadGoogleAnalytics, 1200), { once: true });
+    const loadOnInteraction = () => loadGoogleAnalytics();
+    ["pointerdown", "keydown", "scroll"].forEach((eventName) => {
+      window.addEventListener(eventName, loadOnInteraction, { once: true, passive: true });
+    });
+    window.addEventListener("load", () => {
+      if ("requestIdleCallback" in window) {
+        window.requestIdleCallback(loadGoogleAnalytics, { timeout: 6000 });
+      } else {
+        setTimeout(loadGoogleAnalytics, 5000);
+      }
+    }, { once: true });
     bindRegisterClicks();
     bindSearch();
     bindGameFilters();
