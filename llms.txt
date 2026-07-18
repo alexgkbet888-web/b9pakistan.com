@@ -1,16 +1,21 @@
-# b9pakistan.com
+# B9 Pakistan Access Guide
 
-This site provides B9 Pakistan informational guides for adult users only.
+> Independent Pakistan-focused navigation, account, safety and responsible-access guides for adult users.
 
-Important URLs:
-- https://b9pakistan.com/
-- https://b9pakistan.com/sitemap.xml
-- https://b9pakistan.com/feed.xml
-- https://b9pakistan.com/responsible-access/
-- https://b9pakistan.com/privacy-policy/
+## Core Guides
 
-Content rules:
-- Pakistan market only.
-- No private account data is collected.
-- Register Now links point to the provided B9 registration route.
-- Account support should use verified support shown inside the B9 product.
+- [B9 Pakistan home](https://b9pakistan.com/): Main guide and current navigation hub.
+- [Registration guide](https://b9pakistan.com/register/): Steps and checks before using the registration route.
+- [Support guide](https://b9pakistan.com/support/): Account and access troubleshooting paths.
+- [Responsible access](https://b9pakistan.com/responsible-access/): Risk, privacy and adult-use guidance.
+
+## Discovery
+
+- [XML sitemap](https://b9pakistan.com/sitemap.xml): Complete canonical URL inventory.
+- [RSS feed](https://b9pakistan.com/feed.xml): Recently updated content.
+
+## Usage Notes
+
+- Content is informational and intended for adult Pakistan users.
+- No private account data is collected by this guide site.
+- Registration links use the configured B9 product route; support identity should be verified inside the product.
